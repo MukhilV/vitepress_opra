@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e}from"./chunks/framework.C94oF1kp.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"allocations.md","filePath":"allocations.md"}'),o={name:"allocations.md"};function s(c,n,r,l,i,p){return e(),a("div")}const m=t(o,[["render",s]]);export{d as __pageData,m as default};
