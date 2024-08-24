@@ -1,3 +1,5 @@
+# Polls
+
 ## Poll Creation
 
 * Click on “Polls” tab on your ton left of the page after logging in into OPRA to get the below page. You can create a new poll by clicking on “Create New” button and complete the configuration steps.
@@ -89,28 +91,28 @@
 ![Dashboard](./images/dashboard.png)
 
 
-## Polls UI
-### Polls UI - Two Columns:
+## UI to get preferences 
+### Two Columns:
 1. Allows users to their submit preferences by moving the all/partial options from right column to left column.
 
 ![Dashboard](./images/dashboard.png)
 
-### Polls UI - One Column:
+### One Column:
 1. Allows user to give preferences to all the options. 
 
 ![Dashboard](./images/dashboard.png)
 
-### Polls UI  - Sliders:
+### Sliders:
 1. Allows users to submit preferences with the help of sliders. 
 
 ![Dashboard](./images/dashboard.png)
 
-### Polls UI - Stars:
+### Stars:
 1. Allows user to submit preferences in stars.
 
 ![Dashboard](./images/dashboard.png)
 
-### Polls UI - Yes/No
+### Yes/No
 ![Dashboard](./images/dashboard.png)
 
 
