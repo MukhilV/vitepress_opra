@@ -7,7 +7,7 @@
 * You can search all the allocation instance created by you in the top search box and filter it out based on key word in the name of the Poll.
 
 
-![Dashboard](./images/dashboard.png)
+![Allocation Page](./images/allocations/allocation_landing.png)
 
 ## Allocation Creation
 * The Allocation creation is same as the Poll creation.
@@ -19,7 +19,7 @@
 2. Only 3 options to submit allocation preferences and they cannot co-exist in a same instance. Hence the radio buttons in the selection of UI.
 3. The following info is shown in Results page of Allocation based on the selection.
 
-![Dashboard](./images/dashboard.png)
+![Allocation Algorithms](./images/allocations/allocation_algorithms.png)
 
 
 ## Allocation Settings
@@ -30,18 +30,18 @@
 ### Budget UI
 1. Sliders to submit preferences, but cumulative score can’t exceed 100. 
 
-![Dashboard](./images/dashboard.png)
+![Budget UI](./images/allocations/allocation_budget_UI.png)
 
 ### List UI
 1. Numbers to submit preferences, but cumulative score can’t exceed 100. 
 
-![Dashboard](./images/dashboard.png)
+![List UI](./images/allocations/allocation_list_UI.png)
 
 ### Infinite Budget UI
 1. Numbers to submit preferences, but  o upper limit for cumulative score. 
 
 
-![Dashboard](./images/dashboard.png)
+![Infinite Budget UI](./images/allocations/allocation_infinite_budget_UI.png)
 
 
 ## Allocation Results
@@ -49,15 +49,15 @@
 ### Own Prefereneces
 1. Displays the user's preferences for the current Allocation instance.
 
-![Dashboard](./images/dashboard.png)
+![My Preference](./images/allocations/allocation_results_my_pref.png)
 
 ### Allocated Item Bundle
-![Dashboard](./images/dashboard.png)
+![Items Bundle](./images/allocations/allocation_results_items_bundle.png)
 
 ### Allocation results
-![Dashboard](./images/dashboard.png)
+![Allocation Results](./images/allocations/allocation_results_.png)
 
 ### EF1 Matrix
-![Dashboard](./images/dashboard.png)
+![EF1 Matrix](./images/allocations/allocation_results_ef1.png)
 
 
